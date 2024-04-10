@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: var(--main-color);
+}
+
+:root {
+	--main-color: #121121;
+
+	--tittle-font-style: "Tilt Neon", sans-serif;
+	--tittle-font-color: #ffffff;
+	--tittle-font-size: 2rem;
+	
+}
